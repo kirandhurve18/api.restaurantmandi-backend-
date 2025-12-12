@@ -1,1 +1,0 @@
-# api.restaurantmandi.com
