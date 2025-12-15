@@ -11,3 +11,4 @@ pipeline {
                 git branch: 'main ', url: 'https://github.com/kirandhurve18/api.restaurantmandi-backend-.git'
             }
         }
+    }
